@@ -5,4 +5,8 @@ Here are some changes.
 
 add another line
 
+<<<<<<< HEAD
 Chan
+=======
+Changes ma
+>>>>>>> refs/remotes/origin/main
